@@ -1,3 +1,2 @@
-# python-practice
-Practice code on python 
+# python-practice 
 Python is a high-level, general-purpose programming language
